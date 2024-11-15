@@ -1,30 +1,39 @@
+# 🥣 푸딧 - 청소년을 위한 식습관 관리 시스템
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/bf23861a-d570-40e0-bc69-c648e253357b" alt="Image 1" width="300">
+    <img src="https://github.com/user-attachments/assets/31708c10-11c6-47ac-8875-0ec2ca3e21a6" alt="Image 2" width="300">
+  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Good%20Health%20And%20Well-Being-28B463?style=flat&logo=health&logoColor=white" alt="Good Health And Well-Being">
+</p>
+
+
 # 🔗 프로젝트 Github 주소
-Backend: https://github.com/Vision-Challengethon-TEAM-1/BackEnd/
+- **Backend:** [https://github.com/Vision-Challengethon-TEAM-1/BackEnd/](https://github.com/Vision-Challengethon-TEAM-1/BackEnd/)
+- **Frontend:** [https://github.com/Vision-Challengethon-TEAM-1/Frontend/](https://github.com/Vision-Challengethon-TEAM-1/Frontend/)
 
-Frontend: https://github.com/Vision-Challengethon-TEAM-1/Frontend/
 
-# 🧑🏻‍💻 서비스
-> **🍓 Foodeat** - 청소년을 위한 식습관 관리 시스템
-
-# ✔︎ 주제 구분
-> **💚 Good Health And Well-Being 💚**
-
-# 📋 팀원 소개
-
+# 팀원 소개
 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/adorableco"><img src="https://github.com/user-attachments/assets/e3bd0a3e-c211-4e13-9d9d-fceb604e5a03" width="100px;" alt=""/><br /><sub><b> 박세연 👋<br> 백엔드 <br> (컴퓨터학부 심컴 21학번)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/eunwoo-levi"><img src="https://github.com/user-attachments/assets/69ebf619-6fb0-4a98-bd68-e41aaba98fab" width="100px;" alt=""/><br /><sub><b> 성은우 👋<br> 웹 프론트엔드 <br> (컴퓨터학부 심컴 22학번)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/lsmin3388"><img src="https://github.com/user-attachments/assets/ce739ae9-f8d4-40c0-bece-d75d819925af" width="100px;" alt=""/><br /><sub><b> 이상민 👋<br> 백엔드 <br> (컴퓨터학부 심컴 23학번)</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Changmok Lee"><img src="https://github.com/user-attachments/assets/a8ac042d-8629-4530-8a8a-ae70216c3817" width="100px;" alt=""/><br /><sub><b> 이창목 👋 <br> 웹 프론트엔드 <br> (컴퓨터학부 글솦 20학번) </b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/hayeonyum"><img src="https://github.com/user-attachments/assets/38f6aac9-3e39-4f1a-aadb-a2d911efa866" width="100px;" alt=""/><br /><sub><b> 전하연 👋 <br> 디자인 <br> (컴퓨터학부 글솦 21학번) </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/adorableco"><img src="https://github.com/user-attachments/assets/e3bd0a3e-c211-4e13-9d9d-fceb604e5a03" width="100px;" alt="박세연"/><br /><sub><b>박세연 👋<br>백엔드<br>(컴퓨터학부 심컴 21학번)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/eunwoo-levi"><img src="https://github.com/user-attachments/assets/69ebf619-6fb0-4a98-bd68-e41aaba98fab" width="100px;" alt="성은우"/><br /><sub><b>성은우 👋<br>웹 프론트엔드<br>(컴퓨터학부 심컴 22학번)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/lsmin3388"><img src="https://github.com/user-attachments/assets/ce739ae9-f8d4-40c0-bece-d75d819925af" width="100px;" alt="이상민"/><br /><sub><b>이상민 👋<br>백엔드<br>(컴퓨터학부 심컴 23학번)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ChangmokLee"><img src="https://github.com/user-attachments/assets/a8ac042d-8629-4530-8a8a-ae70216c3817" width="100px;" alt="이창목"/><br /><sub><b>이창목 👋<br>웹 프론트엔드<br>(컴퓨터학부 글솦 20학번)</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/hayeonyum"><img src="https://github.com/user-attachments/assets/38f6aac9-3e39-4f1a-aadb-a2d911efa866" width="100px;" alt="전하연"/><br /><sub><b>전하연 👋<br>디자인<br>(컴퓨터학부 글솦 21학번)</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
 
-# 🍓 푸딧
+# 📢 서비스 소개
 
 ## 📍 서비스 개요
 
@@ -48,14 +57,15 @@ Frontend: https://github.com/Vision-Challengethon-TEAM-1/Frontend/
 - **정신 건강 문제:** 우울증, 거식증, 폭식증 등
 
 ### 2. 소아청소년 비만 현황 및 해결 필요성
-<img src="https://github.com/user-attachments/assets/60cf3b83-41fd-4dfe-b36f-6ee2c32556ce" width="60%;" alt=""/>
+
+![소아청소년 비만 현황](https://github.com/user-attachments/assets/60cf3b83-41fd-4dfe-b36f-6ee2c32556ce)
+
 2023년 대한비만학회에서 발간된 비만 팩트 시트에 따르면, 최근 10년간 소아청소년 비만 유병률이 급격히 증가하고 있습니다.
 
 - **비만 유병률 증가:**
   - 남아: 10.4% → 25.9% (약 2.5배 증가)
   - 여아: 8.8% → 12.3% (약 1.4배 증가)
 
-  
 소아청소년 비만은 만성 질환으로, 일생 전반에 걸쳐 건강한 식생활과 올바른 생활 양식이 필요하지만 치료가 쉽지 않습니다. 따라서, 소아청소년 비만 관리는 개인의 건강뿐만 아니라 국가적인 중대한 사안으로 대두되고 있습니다.
 
 ## 📍 기능 상세 설명
@@ -82,15 +92,70 @@ Frontend: https://github.com/Vision-Challengethon-TEAM-1/Frontend/
 - **주간:** 받은 스티커로 주간 푸딧이 완성됩니다.
 - **월간:** 주간에 완성된 푸딧이 랜덤으로 해당 월 푸딧으로 등장하여, 장기적인 식습관을 한눈에 확인할 수 있습니다.
 
-## 📍 참고 자료
+# 📊 시스템 설계
+
+## ERD
+
+![ERD](https://github.com/Vision-Challengethon-TEAM-1/assets/erd-diagram.png)
+
+## 시스템 아키텍처
+
+![시스템 아키텍처](https://github.com/Vision-Challengethon-TEAM-1/assets/system-architecture.png)
+
+# 🔧 이슈 관리 방식
+
+푸딧 프로젝트는 효율적인 협업과 문제 해결을 위해 다음과 같은 이슈 관리 방식을 채택하고 있습니다:
+
+1. **GitHub Issues 및 Linear 사용:**
+   - 모든 버그, 기능 요청, 개선 사항은 GitHub Issues와 Linear 툴을 통해 관리합니다.
+   - `Fix`, `Feature` 등의 이슈 템플릿은 Linear에서 제공되며, 이를 통해 일관된 이슈 관리가 가능합니다.
+
+    <img width="1489" alt="스크린샷 2024-11-16 오전 5 37 08" src="https://github.com/user-attachments/assets/91ade32e-bbaf-4062-b5e3-c66298d849b7">
+
+2. **프로젝트 보드 및 작업 흐름:**
+   - GitHub Projects와 Linear를 연동하여 `To Do`, `In Progress`, `Done` 칼럼으로 작업을 관리합니다.
+   - 스프린트 단위로 계획을 세우고, 작업의 진행 상황을 시각적으로 추적합니다.
+
+3. **코드 리뷰:**
+   - 모든 Pull Request(PR)는 최소 한 명 이상의 팀원에 의해 코드 리뷰를 거칩니다.
+   - 코드 품질과 일관성을 유지하기 위해 리뷰어는 피드백을 제공하고 필요 시 수정 요청을 합니다.
+
+4. **정기 회의:**
+   - 주간 회의를 통해 진행 상황을 공유하고, 발생한 이슈를 논의합니다.
+   - 회의록은 GitHub Wiki에 기록하여 팀원 모두가 접근할 수 있도록 합니다.
+
+5. **자동화 및 CI/CD 파이프라인:**
+   - GitHub Actions를 활용하여 CI/CD 파이프라인을 구축하였습니다.
+   - 테스트, 빌드, 배포 과정이 자동화되어 코드 퀄리티를 유지하고 배포 시간을 단축합니다.
+
+
+# 📍 참고 자료
 
 - [대한비만학회 비만 팩트 시트](https://jkma.org/journal/view.php?doi=10.5124/jkma.2024.67.5.306#f1-jkma-2024-67-5-306)
 - [비만 유병률 증가](https://www.kdca.go.kr/board/board.es?mid=a20501000000&bid=0015&list_no=722017&cg_code=&act=view&nPage=4&newsField=202303)
 
-## 📍 기여 및 연락처
+# 📍 기여 및 연락처
 
-푸딧 프로젝트에 기여하고 싶으신 분들은 [이메일](mailto:sjsb4838@gmail.com)로 연락주시기 바랍니다.
+푸딧 프로젝트에 기여하고 싶으신 분들은 [이메일](mailto:sjsb4838@gmail.com)로 연락주시기 바랍니다.
 
 ---
 
 **푸딧**과 함께 건강한 식습관을 만들어가세요! 🥗🍎
+
+# 프로젝트 배너
+
+![푸딧 배너](https://github.com/Vision-Challengethon-TEAM-1/assets/banner.png)
+
+# 기술 스택
+
+- **Frontend:** React, Redux, Styled-Components
+- **Backend:** Node.js, Express, MongoDB
+- **AI:** TensorFlow, OpenCV
+- **CI/CD:** GitHub Actions, Docker
+- **디자인:** Figma
+
+# 프로젝트 상태
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Vision-Challengethon-TEAM-1/Foodeat?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Vision-Challengethon-TEAM-1/Foodeat?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Vision-Challengethon-TEAM-1/Foodeat)
