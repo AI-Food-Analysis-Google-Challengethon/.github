@@ -21,7 +21,7 @@
 - **Frontend:** [https://github.com/Vision-Challengethon-TEAM-1/Frontend/](https://github.com/Vision-Challengethon-TEAM-1/Frontend/)
 
 
-# 팀원 소개
+# 📢 팀원 소개
 
 <table>
   <tbody>
