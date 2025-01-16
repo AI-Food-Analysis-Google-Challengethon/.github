@@ -1,6 +1,7 @@
 # Google - 2024 GOG ChallengeThon
 ![image](https://github.com/user-attachments/assets/51a6f3ab-67c8-437f-92ae-576da105689a)
 
+***
 
 
 # 🥣 푸딧 - 청소년을 위한 식습관 관리 시스템
