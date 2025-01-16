@@ -1,3 +1,8 @@
+# Google - GOG ChallengeThon
+![image](https://github.com/user-attachments/assets/51a6f3ab-67c8-437f-92ae-576da105689a)
+
+
+
 # 🥣 푸딧 - 청소년을 위한 식습관 관리 시스템
 <p align="center">
     <img src="https://github.com/user-attachments/assets/bf23861a-d570-40e0-bc69-c648e253357b" alt="Image 1" width="300">
